@@ -1,0 +1,11 @@
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\bin\Debug\crud.exe.config
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\bin\Debug\crud.exe
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\bin\Debug\crud.pdb
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\obj\Debug\crud.csproj.SuggestedBindingRedirects.cache
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\obj\Debug\crud.Properties.Resources.resources
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\obj\Debug\crud.exe
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\obj\Debug\crud.pdb
+F:\windows_programancion\c#programing\crud_image_password\crud\crud\obj\Debug\crud.Form1.resources
